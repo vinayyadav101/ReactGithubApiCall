@@ -1,0 +1,23 @@
+.mainContainer{
+    margin: 2%;
+    padding: 1%;
+}
+.searchBar{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2%;
+}
+.searchBar input {
+    font-size: xx-large;
+    margin: 0 2%;
+    padding: 0.8% 0.2%;
+    width: 50%;
+    border-radius: 20px;
+    outline: none;
+}
+.avatarContainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}

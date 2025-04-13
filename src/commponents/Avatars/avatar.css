@@ -1,0 +1,21 @@
+.avatar{
+    margin: 0.5% 1%;
+    position: relative;
+}
+.avatar img {
+    width: 310px;
+    height: 310px;
+    border-radius: 30px;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 10px black;
+}
+.avatar h3 {
+    position: absolute;
+    font-size: xx-large;
+    font-weight: 100;
+    letter-spacing: 2px;
+    border-radius: 0 10px 10px 0 ;
+    padding: 2%;
+    bottom: 10%;
+    background-color: white;
+}
